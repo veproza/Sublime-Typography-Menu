@@ -2,6 +2,8 @@
 
 A simple Sublime Text 3 plugin to insert typographical characters (like dashes or ellipsis) from the command palette. Based heavily on the [Emoji plugin](https://github.com/ethanal/SublimeEmoji).
 
+![Screenshot](http://i.imgur.com/bUoKBA7.png)
+
 ## Installation
 
 Clone this repository into your `Packages` directory.
